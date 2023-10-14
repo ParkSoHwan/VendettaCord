@@ -1,11 +1,15 @@
 {
-    "name": "ZenithTheme",
-    "description": "Ghost Rider Vencord Theme,
+    "name": "Dark Vendetta",
+    "description": "A \"improved\" dark theme for Discord. Original theme by ignacio. Restored and maintained by Kitomanari.",
     "authors": [
         {
-            "name": "SoHwan",
-            "id": "480653741964656650"
-        }w 
+            "name": "ignacio",
+            "id": "811581067940855888"
+        },
+        {
+            "name": "Kitomanari",
+            "id": "437154602626973697"
+        }
     ],
     "spec": 2,
     "semanticColors": {
@@ -78,18 +82,3 @@
     "background": {
         "url": "https://cdn.discordapp.com/attachments/1049826936282689557/1162673238774652988/image.png"
     },
-    "plus": {
-        "version": 0,
-        "customOverlays": true,
-        "icons": {
-            "ic_mic_neutral": "#102b47",
-            "ic_mic_muted_neutral": "#102b47",
-            "ic_soundboard":"#102b47",
-            "ic_soundboard_muted": "#102b47",
-            "ic_video": "#102b47",
-            "ic_video_disabled": "#102b47"
-        },
-        "iconpack":"rosiecord-plumpy"
-    },
-    "spec": 2
-            }
