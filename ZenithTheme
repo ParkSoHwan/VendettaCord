@@ -34,9 +34,9 @@
             "#bdae931a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#061428",
-            "#061428",
-            "#061428"
+            "#280606",
+            "#280606",
+            "#280606"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#061428",
@@ -44,9 +44,9 @@
             "#061428"
         ],
         "BACKGROUND_ACCENT": [
-            "#86b4ea",
-            "#86b4ea",
-            "#86b4ea"
+            "#ea8686",
+            "#ea8686",
+            "#ea8686"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#114d917a",
