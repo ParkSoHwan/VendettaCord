@@ -1,6 +1,6 @@
 {
     "name": "PGR",
-    "description": "Clear Vision paints serenity across the canvas of our Discord realm.",
+    "description": "First Test theme",
 	"authors": [
       {
          "name": "SoHwan",
@@ -443,7 +443,7 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "url": "hhttps://cdn.discordapp.com/attachments/1049826936282689557/1162648263770521610/image.png?ex=653cb393&is=652a3e93&hm=bd60743a269491efcfc5125f5c0b299dee004230150064fcc61540913c4f3963&"
+        "url": "https://cdn.discordapp.com/attachments/1049826936282689557/1162648263770521610/image.png"
     },
     "plus": {
         "version": 0,
