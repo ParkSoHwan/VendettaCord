@@ -3,9 +3,9 @@
     "description": "Ghost Rider Vencord Theme,
     "authors": [
         {
-         "name": "SoHwan",
-         "id": "480653741964656650"
-        },
+            "name": "SoHwan",
+            "id": "480653741964656650"
+        }w 
     ],
     "spec": 2,
     "semanticColors": {
@@ -78,3 +78,18 @@
     "background": {
         "url": "https://cdn.discordapp.com/attachments/1049826936282689557/1162673238774652988/image.png"
     },
+    "plus": {
+        "version": 0,
+        "customOverlays": true,
+        "icons": {
+            "ic_mic_neutral": "#102b47",
+            "ic_mic_muted_neutral": "#102b47",
+            "ic_soundboard":"#102b47",
+            "ic_soundboard_muted": "#102b47",
+            "ic_video": "#102b47",
+            "ic_video_disabled": "#102b47"
+        },
+        "iconpack":"rosiecord-plumpy"
+    },
+    "spec": 2
+            }
