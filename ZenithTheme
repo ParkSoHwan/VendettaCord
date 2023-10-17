@@ -205,7 +205,7 @@
         ],
         "HEADER_PRIMARY": [
             "#dcddde",
-            "#0a2848",
+            "#480a0a",
             "#dcddde"
         ],
         "HEADER_SECONDARY": [
@@ -279,9 +279,9 @@
             "#102b47"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#171724",
-            "#171724",
-            "#171724"
+            "#420d13",
+            "#420d13",
+            "#420d13"
         ],
         "INTERACTIVE_HOVER": [
             "#b53131",
