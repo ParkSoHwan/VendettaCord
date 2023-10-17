@@ -59,14 +59,14 @@
             "#2678d626"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#2678d626",
-            "#06142826",
-            "#2678d626"
+            "#f57f8b",
+            "#f57f8b",
+            "#f57f8b"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#2678d699",
-            "#2678d699",
-            "#2678d699"
+            "#db8223",
+            "#db8223",
+            "#db8223"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#0a2848",
