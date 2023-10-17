@@ -69,7 +69,7 @@
             "#db8223"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#0a2848",
+            "#0f0f14",
             "#dcddde",
             "#000000"
         ],
@@ -94,7 +94,7 @@
             "#0f0f14"
         ],
         "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
-            "#0a2848",
+            "#0f0f14",
             "#dcddde",
             "#000000"
         ],          
