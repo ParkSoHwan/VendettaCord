@@ -24,14 +24,14 @@
             "#bdae931a"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#bdae931a",
-            "#665c541a",
-            "#bdae931a"
+            "#f25557",
+            "#f25557",
+            "#f25557"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#bdae931a",
-            "#665c541a",
-            "#bdae931a"
+            "##f25557",
+            "#f25557",
+            "#f25557"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#280606",
@@ -99,7 +99,7 @@
             "#000000"
         ],          
         "CHANNELS_DEFAULT": [
-            "#575a68",
+            "#ffffff",
             "#575a68",
             "#575a68"           
         ],
