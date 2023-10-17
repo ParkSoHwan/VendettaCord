@@ -119,7 +119,7 @@
             "#ef8185"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#0a2848",
+            "#cfdbe8",
             "#dcddde",
             "#000000"
         ],
@@ -209,9 +209,9 @@
             "#dcddde"
         ],
         "HEADER_SECONDARY": [
-            "#0f0f14",
-            "#0f0f14",
-            "#0f0f14"
+            "#7a7a87",
+            "#7a7a87",
+            "#7a7a87"
         ],
         "INFO_DANGER_BACKGROUND": [
             "#0a2848",
@@ -379,9 +379,9 @@
             "#dcddde"
         ],
         "TEXT_MUTED": [
-            "#2678d6",
-            "#2678d6",
-            "#2678d6"
+            "#d8e1eb",
+            "#d8e1eb",
+            "#d8e1eb"
         ],
         "TEXT_NORMAL": [
             "#dcddde",
