@@ -49,14 +49,14 @@
             "#ea8686"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#114d917a",
-            "#2678d67a",
-            "#114d917a"
+            "#ff0000",
+            "#ff0000",
+            "#ff0000"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#2678d626",
-            "#06142826",
-            "#2678d626"
+            "#e6ed64",
+            "#e6ed64",
+            "#e6ed646"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
             "#f57f8b",
@@ -74,9 +74,9 @@
             "#000000"
         ],
         "BACKGROUND_PRIMARY": [
-            "#171724",
-            "#171724",
-            "#171724"
+            "#0f0f14",
+            "#0f0f14",
+            "#0f0f14"
         ],
         "BACKGROUND_SECONDARY": [
             "#ba4756",
@@ -89,9 +89,9 @@
             "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#171724",
-            "#171724",
-            "#171724"
+            "#0f0f14",
+            "#0f0f14",
+            "#0f0f14"
         ],
         "BUG_REPORTER_MODAL_SUBMITTING_BACKGROUND": [
             "#0a2848",
@@ -209,9 +209,9 @@
             "#dcddde"
         ],
         "HEADER_SECONDARY": [
-            "#171724",
-            "#171724",
-            "#171724"
+            "#0f0f14",
+            "#0f0f14",
+            "#0f0f14"
         ],
         "INFO_DANGER_BACKGROUND": [
             "#0a2848",
@@ -294,9 +294,9 @@
             "#3f414c"
         ],
         "INTERACTIVE_NORMAL": [
-            "#171724",
-            "#171724",
-            "#171724"
+            "#0f0f14",
+            "#0f0f14",
+            "#0f0f14"
         ],
         "LOGO_PRIMARY": [
             "#83a598",
