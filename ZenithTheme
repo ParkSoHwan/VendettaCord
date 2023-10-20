@@ -24,10 +24,10 @@
             "#ffb2a4"
         ],
         "INTERACTIVE_NORMAL": [
-            "#FFB4A8"
+            "#d9631e"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FFDAD3"
+            "#d9631e"
         ],
         "INTERACTIVE_MUTED": [
             "#76534f"
