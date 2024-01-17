@@ -1,6 +1,6 @@
 {
     "name": "║█║ Theme",
-    "description": "Blue Vencord theme",
+    "description": "Pink Vencord theme",
 	"authors": [
       {
          "name": "SoHwan",
@@ -39,9 +39,9 @@
             "#061428"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#061428",
-            "#061428",
-            "#061428"
+            "#a15bc7",
+            "#a15bc7",
+            "#a15bc7"
         ],
         "BACKGROUND_ACCENT": [
             "#86b4ea",
