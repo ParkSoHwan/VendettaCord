@@ -1,7 +1,7 @@
 {
     "name": "울타메샤",
     "description": "Camille Vencord theme",
-	"authors": [
+    "authors": [
       {
          "name": "SoHwan",
          "id": "480653741964656650"
@@ -97,11 +97,11 @@
             "#0a2848",
             "#dcddde",
             "#000000"
-        ],			
+        ],          
         "CHANNELS_DEFAULT": [
             "#575a68",
             "#575a68",
-            "#575a68"			
+            "#575a68"           
         ],
         "CHANNEL_ICON": [
             "#2780E64d",
@@ -401,7 +401,7 @@
     },
     "rawColors": {
         "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
-        "PRIMARY_100": "#3789E6",
+        "PRIMARY_100": "#111c2e",
         "PRIMARY_130": "#dbeafa",
         "PRIMARY_200": "#7eb3f0",
         "PRIMARY_230": "#7eb3f0",
