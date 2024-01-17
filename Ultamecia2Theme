@@ -1,5 +1,5 @@
 {
-    "name": "Dark Vendetta",
+    "name": "dog",
     "description": "A \"improved\" dark theme for Discord.\nOriginal theme by ignacio.\nRestored and maintained by Kitomanari.\nTested on 209.14 Discord version.\nLast updated: 30.12.2023.",
     "authors": [
         {
@@ -26,8 +26,5 @@
         "PLUM_22": "#121212",
         "PLUM_23": "#181818",
         "YELLOW_300": "#007bff"
-    },
-    "background": {
-        "url": "https://cdn.discordapp.com/attachments/1049826936282689557/1197053735021592656/image.png"
     },
 }
