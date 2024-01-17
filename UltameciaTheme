@@ -74,9 +74,9 @@
             "#000000"
         ],
         "BACKGROUND_PRIMARY": [
-            "#81b6ef",
-            "#81b6ef",
-            "#81b6ef"
+            "#01080f",
+            "#01080f",
+            "#01080f"
         ],
         "BACKGROUND_SECONDARY": [
             "#091024",
@@ -209,9 +209,9 @@
             "#dcddde"
         ],
         "HEADER_SECONDARY": [
-            "#01080f",
-            "#01080f",
-            "#01080f"
+            "#3883cf",
+            "#3883cf",
+            "#3883cf"
         ],
         "INFO_DANGER_BACKGROUND": [
             "#0a2848",
