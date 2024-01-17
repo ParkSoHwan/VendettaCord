@@ -1,141 +1,33 @@
 {
-    "name": "Zenith Theme",
-    "description": "Ghost Rider Vencord theme",
+    "name": "Dark Vendetta",
+    "description": "A \"improved\" dark theme for Discord.\nOriginal theme by ignacio.\nRestored and maintained by Kitomanari.\nTested on 209.14 Discord version.\nLast updated: 30.12.2023.",
     "authors": [
-      {
-         "name": "SoHwan",
-         "id": "480653741964656650"
-      }
+        {
+            "name": "ignacio",
+            "id": "811581067940855888"
+        },
+        {
+            "name": "Kitomanari",
+            "id": "437154602626973697"
+        }
     ],
+    "spec": 2,
     "semanticColors": {
-        "HEADER_PRIMARY": [
-            "#f27333"
-        ],
-        "HEADER_SECONDARY": [
-            "#FFB4A8"
-        ],
-        "TEXT_NORMAL": [
-            "#FFFFFF"
-        ],
-        "TEXT_MUTED": [
-            "#986964"
-        ],
-        "TEXT_LINK": [
-            "#ffb2a4"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#d9631e"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#d9631e"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#76534f"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#220403"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#360605"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#360605"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#220403"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#94473E"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#220403"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#220403"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#360605"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#220403"
-        ],
-       
-        "BACKGROUND_MESSAGE_HOVER": [
-            "#3D0604"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "#B15F54"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "#F09185"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#94473E"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#220403"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#4a2727"
-        ],
-        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#f5791b"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#bc877f"
-        ],
-        "TEXT_DANGER": [
-            "#d74a44"
-        ],
-        "KEYBOARD": [
-            "#220403"
-        ],
-        "CHANNEL_ICON": [
-            "w "
-        ],
-        "CHAT_BACKGROUND": [
-            "#220403"
-        ],
-        "SPOILER_HIDDEN_BACKGROUND": [
-            "#D1796D"
-        ],
-        "SPOILER_REVEALED_BACKGROUND": [
-            "#FFB4A8"
-        ]
+        "BACKGROUND_MENTIONED": ["#00000000"]
     },
     "rawColors": {
-        "PRIMARY_100": "#FFDAD3",
-        "PRIMARY_200": "#f27333",
-        "PRIMARY_300": "#e03434",
-        "PRIMARY_360": "#f77534",
-        "PRIMARY_400": "#f04a2b",
-        "PRIMARY_500": "#4a2727",
-        "PRIMARY_600": "#220403",
-        "PRIMARY_630": "#220403",
-        "PRIMARY_660": "#220403",
-        "PRIMARY_700": "#220403",
-        "PRIMARY_800": "#220403",
-
-        "BRAND_260": "#FFB4A8",
-        "BRAND_360": "#FFDAD3",
-        "BRAND_500": "#FFB4A8",
-        "BRAND_560": "#FFDAD3",
-
-        "RED_400": "#d74a44",
-        "YELLOW_300": "#FFDAD3",
-        "GREEN_360": "#FFDAD3",
-        "WHITE_500": "#FFFFFF"
+        "PLUM_13": "#181818",
+        "PLUM_15": "#181818",
+        "PLUM_16": "#181818",
+        "PLUM_17": "#141414",
+        "PLUM_18": "#141414",
+        "PLUM_19": "#181818",
+        "PLUM_20": "#121212",
+        "PLUM_22": "#121212",
+        "PLUM_23": "#181818",
+        "YELLOW_300": "#007bff"
     },
-    "spec": 2,
     "background": {
-        "blur": 0,
-        "url": "https://cdn.discordapp.com/attachments/1049826936282689557/1162673238774652988/image.png",
-        "alpha": 0.3,
-        "color": "#220403"
-    
+        "url": "https://cdn.discordapp.com/attachments/1049826936282689557/1197053735021592656/image.png"
     },
-    "plus":{
-        "version":"0",
-        "iconpack":"rosiecord-plumpy"
-    }
 }
