@@ -1,6 +1,6 @@
 {
-    "name": "Zenith Theme",
-    "description": "Ghost Rider Vencord theme",
+    "name": "Test Theme",
+    "description": "Test Vencord theme",
     "authors": [
       {
          "name": "SoHwan",
@@ -113,7 +113,7 @@
         "PRIMARY_600": "#220403",
         "PRIMARY_630": "#220403",
         "PRIMARY_660": "#220403",
-        "PRIMARY_700": "#220403",
+        "PRIMARY_700": "#01030f",
         "PRIMARY_800": "#01030f",
 
         "BRAND_260": "#FFB4A8",
