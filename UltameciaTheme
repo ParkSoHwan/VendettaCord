@@ -401,9 +401,9 @@
     },
     "rawColors": {
         "BG_GRADIENT_CRIMSON_MOON_2": "#000000",
-        "PRIMARY_100": "#111c2e",
+        "PRIMARY_100": "#071224",
         "PRIMARY_130": "#dbeafa",
-        "PRIMARY_200": "#7eb3f0",
+        "PRIMARY_200": "#0c1e3d",
         "PRIMARY_230": "#7eb3f0",
         "PRIMARY_300": "#3789E6",
         "PRIMARY_360": "#2780E6",
@@ -443,7 +443,7 @@
         "YELLOW_300": "#2780E6"
     },
     "background": {
-        "url": "https://cdn.discordapp.com/attachments/1049826936282689557/1052827898832224256/unknown-8.png"
+        "url": "https://cdn.discordapp.com/attachments/1049826936282689557/1197053735021592656/image.png"
     },
     "plus": {
         "version": 0,
