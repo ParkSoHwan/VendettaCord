@@ -442,21 +442,16 @@
         "WHITE_500": "#dcddde",
         "YELLOW_300": "#2780E6"
     },
+    "spec": 2,
     "background": {
-        "url": "https://cdn.discordapp.com/attachments/1049826936282689557/1197053735021592656/image.png"
+        "blur": 0,
+        "url": "https://cdn.discordapp.com/attachments/1049826936282689557/1197053735021592656/image.png,
+        "alpha": 0.3,
+        "color": "#220403"
+    
     },
-    "plus": {
-        "version": 0,
-        "customOverlays": true,
-        "icons": {
-            "ic_mic_neutral": "#102b47",
-            "ic_mic_muted_neutral": "#102b47",
-            "ic_soundboard":"#102b47",
-            "ic_soundboard_muted": "#102b47",
-            "ic_video": "#102b47",
-            "ic_video_disabled": "#102b47"
-        },
+    "plus":{
+        "version":"0",
         "iconpack":"rosiecord-plumpy"
-    },
-    "spec": 2
-            }
+    }
+}
